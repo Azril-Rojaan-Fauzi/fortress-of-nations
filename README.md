@@ -56,3 +56,4 @@ Tiga ScriptableObject tersimpan di `Assets/ScriptableObjects/`:
 ## 📦 Deliverables
 - **UnityPackage:** [`FortressOfNations_BagianB.unitypackage`](FortressOfNations_BagianB.unitypackage)
 - **Screenshots:** Terletak di folder [`Assets/Screenshots/`](Assets/Screenshots/)
+
